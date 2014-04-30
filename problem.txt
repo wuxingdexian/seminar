@@ -1,0 +1,51 @@
+1.hive和hbase异同，关系？
+2.从数据仓库角度看，为什么hive称为数据仓库？
+3.元数据？
+4.sparp和shark关系？
+	答案：Shark类似“SQL on Spark”，是一个在Spark上数据仓库的实现，在兼容Hive的情况下，性能最高可以达到Hive的一百倍。
+	参考：http://www.csdn.net/article/2013-04-26/2815057-Spark-Reynold
+5.spark和hive的异同？
+6.Hive 和数据库的异同？ 参考：http://www.alidata.org/archives/551
+7.spark和hadoop关系？
+
+
+
+sharp部分
+1.MPP是什么？
+2.RDD是什么？
+3.DAG是什么？:有向无循环图Directed Acyclic Graph
+4.Shuffle是什么？Shuffle join？
+5.sharp和mahout有什么异同？ mahout进行机器学习时使用的数据来自何处？
+
+spark部分
+	参考：http://www.csdn.net/article/2013-07-08/2816149
+	      以及多篇论文
+1.流处理是什么？
+2.图计算是什么？
+3.多迭代批量处理是什么？
+4.即席查询（ad-hoc query）是什么？
+5.范式（Paradigm）层/计算范式？
+6.coarse-grained和fine-grained区别？
+7.distributed shared memory是什么概念？
+
+
+
+
+hive部分
+1.hive的etl工具是什么，如何使用？
+
+
+hadoop部分
+1.hadoop的shuffle是什么？
+
+
+
+
+其他部分
+1.Tachyon是什么东西？
+2.Scala是什么东西？
+	答：http://zh.wikipedia.org/zh-cn/Scala
+
+Fast and Interactive Analytics over Hadoop Data with Spark
+
+Shark: SQL and Rich Analytics at Scale
