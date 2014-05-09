@@ -1,6 +1,0 @@
-http://www.oschina.net/translate/spark-tuning
-http://www.ibm.com/developerworks/cn/linux/l-sparkdataanalysis/
-http://blog.newitfarmer.com/big_data/big-data_computing/spark/13908/repost-spark%E8%B0%83%E4%BC%98%EF%BC%880-8-1%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89
-http://rdc.taobao.org/?p=533
-
-http://www.cnblogs.com/vincent-hv/p/3316502.html

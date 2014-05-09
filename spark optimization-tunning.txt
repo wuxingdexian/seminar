@@ -8,3 +8,10 @@ http://www.cnblogs.com/vincent-hv/p/3316502.html
 
 http://spark.apache.org/docs/latest/tuning.html
 http://spark.apache.org/docs/latest/scala-programming-guide.html#rdd-persistence
+
+
+
+初步确定要优化的方面：
+1.使用broadcast变量，类似于Hadoop的本地缓存，使得数据会在每台机子上保存数据备份，而非每个task保存备份。
+2.存储级别，目前确定应该使用“MEMORY_AND_DISK ”
+3.数据序列化，使用Kryo
