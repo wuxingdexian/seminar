@@ -27,3 +27,6 @@ run-time system(运行时系统)：？
 
 
 bin-packing  这个是什么概念呢？？？
+
+
+Spark是一个事件驱动型的方式。
